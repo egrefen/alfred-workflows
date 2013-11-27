@@ -17,7 +17,7 @@ or
 Installation
 ============
 
-To install a workflow, simply double-click the `{workflow-name}.alfredworkflow` file to automagically import it into Alfred.
+To install one of the workflows in the `./workflows` folder, simply double-click the `{workflow-name}.alfredworkflow` file to automagically import it into Alfred.
 
 Available Workflows
 ===================
