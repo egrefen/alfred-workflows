@@ -3,7 +3,7 @@ Introduction
 
 A collection of [Alfred](http://www.alfredapp.com/) Workflows which I made/use.
 
-<p align="center"><img src="http://www.alfredapp.com/images/logo.png" alt="Sublime text" width="350" hspace=20></p>
+<p align="center"><img src="http://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Alfred-logo.png/289px-Alfred-logo.png" alt="Sublime text" width="250" hspace=20></p>
 
 Download
 ========
